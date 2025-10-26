@@ -1,8 +1,11 @@
 @font-face {
-  font-family: 'Google Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: url('https://fonts.gstatic.com/s/googlesans/v65/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiIUvbQoi-Entw.woff2') format('woff2');
+  font-family: A1;
+  src: url("./4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2");
+}
+
+@font-face {
+  font-family: A2;
+  src: url("./KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2");
 }
 
 
@@ -11,7 +14,6 @@
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 html,body{
@@ -229,7 +231,7 @@ img {
 .section3 .container .text{
     color: white;
     font-size: 2rem;
-    font-family: 'Google Sans', sans-serif;
+    font-family: A1;
     text-align: center;
     font-weight: 400;
 }
@@ -670,7 +672,7 @@ main .view_7 .view_7_inner .view_7_texts h2 {
 main .view_7 .view_7_inner .view_7_texts button {
   font-family: A1;
   padding: 0 0;
-  border-radius: 50px;
+  border-rdius: 50px;
   border: none;
   color: #000;
   font-weight: 600;
